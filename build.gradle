@@ -30,7 +30,7 @@ dependencies {
 tasks.jar {
 	manifest {
 		attributes (
-				'Main-Class' : 'me.dio.Application.Application'
+				'Main-Class' : 'me.dio.Application'
 		)
 	}
 }

@@ -1,6 +1,6 @@
-package me.dio.Application.service;
+package me.dio.service;
 
-import me.dio.Application.domain.model.User;
+import me.dio.domain.model.User;
 
 public interface UserService {
 

@@ -1,4 +1,4 @@
-package me.dio.Application;
+package me.dio;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.servers.Server;
